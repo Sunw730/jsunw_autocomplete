@@ -1,3 +1,5 @@
+# 此版本已废弃，敬请期待新版本开发
+
 # Web前端组件 jsunw_autocomplete
 一款简单的自动完成输入框控件
 # 自动完成输入框——sw_autocomplete.js
